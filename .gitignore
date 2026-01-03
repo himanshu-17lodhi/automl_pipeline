@@ -1,0 +1,5 @@
+data/raw/*.csv
+mlruns/
+__pycache__/
+.venv/
+.pytest_cache/
